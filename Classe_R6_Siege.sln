@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe_R6", "Classe_Ornitorrinco\Classe_R6.csproj", "{7BFCDF30-4989-4522-AADA-177B9F1ED1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BFCDF30-4989-4522-AADA-177B9F1ED1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFCDF30-4989-4522-AADA-177B9F1ED1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFCDF30-4989-4522-AADA-177B9F1ED1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFCDF30-4989-4522-AADA-177B9F1ED1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BD0C046-5DD9-4315-84FA-8551381A0B1A}
+	EndGlobalSection
+EndGlobal
